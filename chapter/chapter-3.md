@@ -1,3 +1,6 @@
+> by nm123 is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
 # 第三章
 
 *书接上回，嘉豪给了你一张绷住大赛邀请函*
